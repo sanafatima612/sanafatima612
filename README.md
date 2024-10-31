@@ -1,4 +1,6 @@
-<img alt="Welcome to GREENCODE 🇵🇰" src="./images/wave-top.svg/" />
+<img alt="Welcome to GREENCODE 🇵🇰" src="./images
+/Screenshot 2024-10-31 115414.png
+" />
 
 <h1 align="center">Yo, welcome to GREENCODE 🇵🇰
 </h1>
