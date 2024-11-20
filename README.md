@@ -27,7 +27,6 @@
 ### 📈 GitHub Activity Graph:
 
 <!-- Green Snake -->
-![Sana's GitHub activity graph](https://raw.githubusercontent.com/sanafatima612/sanafatima612/output/github-contribution-grid-snake.svg)
 
 <!-- Stats + Languages -->
 | .                                                                                                                                            | .                                                                                                                             |
