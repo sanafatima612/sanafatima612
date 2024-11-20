@@ -25,6 +25,24 @@
 <img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="border-radius: 20px;"/></a>
 
 
+### 📈 GitHub Activity Graph:
+
+<!-- Green Snake -->
+![Sana's GitHub activity graph](https://raw.githubusercontent.com/sanafatima612/sanafatima612/output/github-contribution-grid-snake.svg)
+
+<!-- Stats + Languages -->
+| .                                                                                                                                            | .                                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| ![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanafatima612&show_icons=true&theme=radical&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanafatima612&theme=radical&layout=compact)   |
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanafatima612"></img>
+
+<!-- Dark Snake -->
+![Sana's GitHub activity graph - Dark](https://raw.githubusercontent.com/sanafatima612/sanafatima612/output/github-contribution-grid-snake-dark.svg)
+
+<!-- Profile Green Animation -->
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 ## 🧰 Libraries and Frameworks
 
